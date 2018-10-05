@@ -1,5 +1,5 @@
 # MICRO-BLOG
-## @ https://reznov9185.herokuapp.com
+## @ https://reznov9185.herokuapp.com/posts
 
 This is my microblog using rails 6.0.0 alpha and ActionText
 
