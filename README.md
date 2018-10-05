@@ -1,24 +1,18 @@
-# README
+# MICRO-BLOG
+## @ https://reznov9185.herokuapp.com
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my microblog using rails 6.0.0 alpha and ActionText
 
-Things you may want to cover:
+Tools used:
 
-* Ruby version
+* Ruby 2.5.7, Rails 6.0.0 alpha
 
-* System dependencies
+* System dependencies: node.js >= 6.4.*, yarn
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
+* Database: psql
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Deployment instructions: push to master for deploying to Heroku
 
-* ...
+* ...more coming soon!
